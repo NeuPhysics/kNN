@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# ignore mac
+.DS_Store
+
+# Ignore checkpoints created (especially for the examples)
+.ipynb_checkpoints
